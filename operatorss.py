@@ -108,6 +108,3 @@ print("After **= b, a:", a)  # This will raise 10 to the power of 20, resulting 
 b **= a
 print("After **= a, b:", b)  # This will raise 20 to the power of a (which is a very large number), resulting in an extremely large number
 
-a=10
-b=20
-print(a+b)
