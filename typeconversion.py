@@ -255,3 +255,4 @@ b = True
 i = int(b)  # True converts to 1
 print(i)  # Output: 1 
 
+
