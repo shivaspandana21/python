@@ -293,8 +293,12 @@ print("bitwise right shift operator:", b)  # This will return 8 because right sh
 
 a=2004
 b = a >> 2
+<<<<<<< HEAD
 print("bitwise right shift operator:", b)  # This will return 501 because right shifting 2004 (11111010100 in binary) by 2 bits results in 111110101 (which is 501 in decimal)
 a=10
 b=20
 c=a==b
 print("equals to:",c)
+=======
+print("bitwise right shift operator:", b)  # This will return 501 because right shifting 2004 (11111010100 in binary) by 2 bits results in 111110101 (which is 501 in decimal)
+>>>>>>> 2ede0eaf1add8cd9fa86787ba6ac413a024075bb
